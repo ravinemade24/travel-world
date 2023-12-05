@@ -52,6 +52,9 @@
     #gallary img {
         height: 350px;
     }
-    
+    .book_wrapper h3 {
+        font-size: 18px;
+        margin-bottom: 0;
+    }
 }
 
