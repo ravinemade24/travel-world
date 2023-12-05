@@ -42,7 +42,11 @@
     
     }
     .sec_heading h5{
-        color: var(--white);
+        /* color: var(--white); */
+    }
+
+    .drag_div{
+        margin-top: 0;
     }
 
     #gallary img {
