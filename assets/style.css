@@ -237,7 +237,7 @@ form#booking_form {
 
 /* services section */
 
-section#service{
+section#services{
     display: flex;
     background: linear-gradient(#fff, 50%,  #0b858d  50%, #fff 100%);
     min-height: 100vh;
