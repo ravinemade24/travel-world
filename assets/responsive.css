@@ -1,0 +1,53 @@
+@media(max-width:991px){
+    #book {
+        padding: 20px;
+    }
+    #about {
+        background: linear-gradient(0deg , #17577a,#09948e, #fff 70%);
+    }
+}
+
+
+@media(max-width:700px){
+    .wrapper{
+        padding: 10px;
+    }
+
+    #book {
+        padding: 10px;
+    }
+    .card img{
+        height: auto;
+    }
+
+    .home .content p{
+        font-size: 18px;
+    }
+
+    .home .content h1{
+        font-size: 32px;
+    }
+
+    .home .content h5{
+        font-size: 30px;
+    }
+
+    .footer img{
+        width: 100px;
+    }
+
+    section#service {
+       
+        background: linear-gradient(#fff, 0%,  #0b858d  50%, #fff 100%);
+    
+    }
+    .sec_heading h5{
+        color: var(--white);
+    }
+
+    #gallary img {
+        height: 350px;
+    }
+    
+}
+
